@@ -32,7 +32,7 @@
             <section id="home">
                 <h1>WELLCOME to E-channeling Center<br>
                     We Provide
-                    <br>  Total Health  Care Solution</h1>
+                    <br>  Total Health  Care Solution In Srilanka</h1>
                 
                     <p></p>
                
